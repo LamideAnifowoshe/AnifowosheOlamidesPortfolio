@@ -1,37 +1,18 @@
-## Welcome to GitHub Pages
+# Olamide Esther ANIFOWOSHE [view CV](https://github.com/AnifowosheLamie/AnifowosheOlamidesPortfolio/edit/main/README.md).
 
-You can use the [editor on GitHub](https://github.com/AnifowosheLamie/AnifowosheOlamidesPortfolio/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+## About Me
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am a focused graduate with a strong background in Surveying and
+Geoinformatics Engineering. I seek a competitive environment
+where I can use my problem-solving skills to help achieve the
+desired goals. My hope is to get knowledge and experience in order
+to benefit myself on the long term
 
-### Markdown
+## Works Done
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### [GROUNDWATER POTENTIAL ZONE MAPPING OF LANIBA,AKINYELE LOCAL GOVERNMENT AREA OF IBADAN, OYO STATE USING GEOSPATIAL MULTI-CRITERIA ANALYSIS AND HYDROGEOPHYSICS](https://github.com/AnifowosheLamie/AnifowosheOlamidesPortfolio/edit/main/README.md)
+ 
 
-```markdown
-Syntax highlighted code block
+With the increase in population of Akinyele local government area, the necessity to provide water to the populace has become a disturbing problem. In this study, a systematic approach to delineate the groundwater potential zones of the area was carried out using Remote Sensing, Geographic Information Systems (GIS) and Hydrogeophysics as a tool. Vertical Electrical Sounding (VES) observations were also carried out to validate the results obtained from the integrated remote sensing and GIS observation and also determine the aquifer depth and possible pollution. The various thematic maps such as: soil map, land use/Land, geological map, rainfall map, lineaments map were obtained from enhanced satellite imagery and Slope map was generated from Shuttle Radar Topographic Mission elevation model (SRTM DEM). These maps were overlaid in terms of weighed overlay method using Spatial Analysis tool in Arc GIS. During weighed overlay analysis, different ranks were given to each individual parameter of each thematic map and weights were assigned according to their influence. The groundwater potential map obtained from the study area showed that 27% of the total study area lie within the “very high” potential zone, 23% of the
+area falls within the “high”, 20% lies within the of “moderate” zone, 17% lies within the “low” potential zone while 13% lies within the very low potential zone
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AnifowosheLamie/AnifowosheOlamidesPortfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.

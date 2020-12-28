@@ -1,6 +1,6 @@
 # Olamide Esther ANIFOWOSHE [view CV](https://github.com/AnifowosheLamie/Resume/blob/main/OLAMIDE%20ESTHER%20ANIFOWOSHE.%20Resume.pdf).
 
-## About Me [view Transcript](https://github.com/AnifowosheLamie/Transcript/blob/main/Transcript.pdf), View SOP [view Transcript](https://github.com/AnifowosheLamie/Transcript/blob/main/Transcript.pdf)
+## About Me [view Transcript](https://github.com/AnifowosheLamie/Transcript/blob/main/Transcript.pdf), [view SOP](https://github.com/LamideAnifowoshe/SOP/blob/main/OLAMIDE%20ESTHER%20ANIFOWOSHE%20Statement%20of%20Purpose.pdf)
 
 I am a focused graduate with a strong background in Surveying and
 Geoinformatics Engineering. I seek a competitive environment
